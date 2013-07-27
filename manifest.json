@@ -1,0 +1,16 @@
+{
+    "name": "Hold the Cloud",
+    "version": "2.3",
+    "icons": {
+        "128": "images/hold-the-cloud-128.png"
+    },
+    "app": {
+        "launch": {
+            "local_path": "index.html"
+        }
+    },
+    "description": "Crossplatform HTML5 game inspired on the exhaled nitric oxide medical test for asthmatics consisting to blow in order to maintain a cloud between a delimited strips for a period of time.",
+    "promo_images": {
+        "440": "images/hold-the-cloud-440.png"
+    }
+}
